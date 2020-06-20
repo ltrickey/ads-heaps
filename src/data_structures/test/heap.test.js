@@ -1,3 +1,5 @@
+/*jshint esversion: 6 */
+
 import MaxHeap from '../heap';
 
 MaxHeap.prototype.verifyMaxHeap = function () {
